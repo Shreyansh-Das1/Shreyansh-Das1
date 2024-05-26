@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyansh</h1>
 <h3 align="center">A passionate and curious developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyansh-das1&label=Profile%20views&color=0e75b6&style=flat" alt="shreyansh-das1" /> </p>
 
 - 🌱 I’m currently learning **Jetpack Compose, Java, Spring Boot**
 
