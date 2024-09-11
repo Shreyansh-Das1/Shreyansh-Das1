@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and curious developer from India</h3>
 
 
-- 🌱 I’m currently learning **Jetpack Compose, Java, Spring Boot**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, Java, Spring Boot**
 
 - 📫 How to reach me **dasshreyansh04@gmail.com**
 
