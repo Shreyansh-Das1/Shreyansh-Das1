@@ -13,24 +13,6 @@
 
 - 📫 How to reach me: **dasshreyansh04@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <a href="https://linkedin.com/in/shreyansh-das-7219a8277" target="blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://kaggle.com/shreyanshdas11" target="blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
   <table border="0">
@@ -59,3 +41,20 @@
   </table>
 </div>
 
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/shreyansh-das-7219a8277" target="blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://kaggle.com/shreyanshdas11" target="blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
