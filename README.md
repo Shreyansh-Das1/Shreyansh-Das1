@@ -2,14 +2,14 @@
 <h3 align="center">Geospatial Enthusiast | Computer Vision Researcher | Backend Developer</h3>
 
 - 🔭 I’m currently working on **EcoRoute AI — A full-stack geospatial routing engine for utility infrastructure.**
-
-- 🚀 Featured Project: **CamPass — Full-stack campus event management and ticketing system.**
-
-- 🔬 Research & Development: **Deep Learning-Based Seed Detection & Grading System — Research involving image processing and grading (Published Patent), Food Dehydration Characterization using Machine Learning (Co-authored paper to be presented in IC2E3 2026)**
-
-- ✅ Completed Project: **Multi-sensor SAR + Optical Land-cover Dataset — Published dataset for multi-sensor fusion.**
-
 - 🌱 I’m currently learning **Advanced Remote Sensing, Image Processing, Deep Learning, Spring Boot.**
+- 🔬 Research & Development:<br>
+      **Deep Learning-Based Seed Detection & Grading System**: Research involving image processing and grading (Published Patent),
+  <br>
+      **Food Dehydration Characterization using Machine Learning** (Co-authored paper to be presented in IC2E3 2026)
+- ✅ Completed Projects: <br>
+      **Multi-sensor SAR + Optical Land-cover Classification**<br>
+      **CamPass: Full-stack campus event management and ticketing system.**
 
 - 📫 How to reach me: **dasshreyansh04@gmail.com**
 
@@ -59,13 +59,3 @@
   </table>
 </div>
 
-<h3 align="center">GitHub Stats:</h3>
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyansh-das1&show_icons=true&locale=en&layout=compact" alt="Top Langs" height="165" />
-      </td>
-      </tr>
-  </table>
-</div>
