@@ -66,9 +66,6 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyansh-das1&show_icons=true&locale=en&layout=compact" alt="Top Langs" height="165" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=shreyansh-das1&show_icons=true&locale=en" alt="GitHub Stats" height="165" />
-      </td>
-    </tr>
+      </tr>
   </table>
 </div>
