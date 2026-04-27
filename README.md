@@ -5,7 +5,7 @@
 
 - 🚀 Featured Project: **CamPass — Full-stack campus event management and ticketing system.**
 
-- 🔬 Research & Development: **Deep Learning-Based Seed Detection & Grading System — Research involving image processing and grading (Patent Filed).Deep Learning-Based Seed Detection & Grading System — Research involving image processing and grading (Published Patent).**
+- 🔬 Research & Development: **Deep Learning-Based Seed Detection & Grading System — Research involving image processing and grading (Published Patent), Food Dehydration Characterization using Machine Learning (Co-authored paper to be presented in IC2E3 2026)**
 
 - ✅ Completed Project: **Multi-sensor SAR + Optical Land-cover Dataset — Published dataset for multi-sensor fusion.**
 
